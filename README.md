@@ -1,6 +1,6 @@
 # Marlin 3D Printer Firmware
 
-<img src="https://repository-images.githubusercontent.com/300765148/9dd4e680-0520-11eb-8670-d636d7ca4ef8" />
+<img src="https://repository-images.githubusercontent.com/306180304/85186c00-140e-11eb-8124-8935b5300232" />
 
 ## 2.0.7.2 Modified for Artillery Sidewinder X1 with BLTouch (Waggster-Mod)
 
